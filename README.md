@@ -1,4 +1,4 @@
-<h1 align="center">Nurgeldi Yessengeldi</h1>
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Nurgeldi+Yessengeldi&amp;font=Fira+Code&amp;size=38&amp;duration=3200&amp;pause=1400&amp;color=8B0000&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=72&amp;repeat=true" alt="Nurgeldi Yessengeldi" /></h1>
 <p align="center"><strong>AI Engineer · Backend Engineer · Full-stack Builder</strong></p>
 <p align="center">Building scalable AI products and systems from zero to deployment.</p>
 <p align="center">
